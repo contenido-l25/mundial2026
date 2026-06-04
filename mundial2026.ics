@@ -1,0 +1,946 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mundial 2026//Fixture Completo//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏆 Mundial 2026
+X-WR-TIMEZONE:America/Asuncion
+X-WR-CALDESC:Fixture completo FIFA World Cup 2026 - Hora Paraguay (PYT)
+
+BEGIN:VEVENT
+UID:wc2026-001@mundial2026
+SUMMARY:🏆 México vs Sudáfrica [Grupo A]
+DTSTART:20260611T140000Z
+DTEND:20260611T160000Z
+LOCATION:Estadio Azteca, Ciudad de México
+DESCRIPTION:Partido 1 - Fase de Grupos\nGrupo A\nHora Paraguay: 10:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-002@mundial2026
+SUMMARY:🏆 Corea del Sur vs Chequia [Grupo B]
+DTSTART:20260611T210000Z
+DTEND:20260611T230000Z
+LOCATION:MetLife Stadium, Nueva York/Nueva Jersey
+DESCRIPTION:Partido 2 - Fase de Grupos\nGrupo B\nHora Paraguay: 5:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-003@mundial2026
+SUMMARY:🏆 Canadá vs Bosnia y Herzegovina [Grupo C]
+DTSTART:20260612T150000Z
+DTEND:20260612T170000Z
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Partido 3 - Fase de Grupos\nGrupo C\nHora Paraguay: 11:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-004@mundial2026
+SUMMARY:🏆 🇵🇾 USA vs Paraguay [Grupo D]
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+LOCATION:SoFi Stadium, Los Ángeles
+DESCRIPTION:Partido 4 - Fase de Grupos\nGrupo D\n⭐ PARAGUAY ⭐\nHora Paraguay: 9:00 PM (Viernes 12)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-005@mundial2026
+SUMMARY:🏆 Qatar vs Suiza [Grupo E]
+DTSTART:20260613T150000Z
+DTEND:20260613T170000Z
+LOCATION:Levi's Stadium, San Francisco
+DESCRIPTION:Partido 5 - Fase de Grupos\nGrupo E\nHora Paraguay: 11:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-006@mundial2026
+SUMMARY:🏆 Brasil vs Marruecos [Grupo F]
+DTSTART:20260613T180000Z
+DTEND:20260613T200000Z
+LOCATION:AT&T Stadium, Dallas
+DESCRIPTION:Partido 6 - Fase de Grupos\nGrupo F\nHora Paraguay: 2:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-007@mundial2026
+SUMMARY:🏆 Haití vs Escocia [Grupo G]
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Partido 7 - Fase de Grupos\nGrupo G\nHora Paraguay: 9:00 PM (Sábado 13)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-008@mundial2026
+SUMMARY:🏆 Australia vs Turquía [Grupo H]
+DTSTART:20260614T040000Z
+DTEND:20260614T060000Z
+LOCATION:Allegiant Stadium, Las Vegas
+DESCRIPTION:Partido 8 - Fase de Grupos\nGrupo H\nHora Paraguay: 12:00 AM (domingo)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-009@mundial2026
+SUMMARY:🏆 Alemania vs Curazao [Grupo I]
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+LOCATION:Lincoln Financial Field, Filadelfia
+DESCRIPTION:Partido 9 - Fase de Grupos\nGrupo I\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-010@mundial2026
+SUMMARY:🏆 Países Bajos vs Japón [Grupo J]
+DTSTART:20260614T160000Z
+DTEND:20260614T180000Z
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Partido 10 - Fase de Grupos\nGrupo J\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-011@mundial2026
+SUMMARY:🏆 Costa de Marfil vs Ecuador [Grupo K]
+DTSTART:20260614T190000Z
+DTEND:20260614T210000Z
+LOCATION:Hard Rock Stadium, Miami
+DESCRIPTION:Partido 11 - Fase de Grupos\nGrupo K\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-012@mundial2026
+SUMMARY:🏆 Suecia vs Túnez [Grupo L]
+DTSTART:20260615T020000Z
+DTEND:20260615T040000Z
+LOCATION:Gillette Stadium, Boston
+DESCRIPTION:Partido 12 - Fase de Grupos\nGrupo L\nHora Paraguay: 10:00 PM (Sábado 14)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-013@mundial2026
+SUMMARY:🏆 España vs Cabo Verde [Grupo A]
+DTSTART:20260615T130000Z
+DTEND:20260615T150000Z
+LOCATION:Estadio Akron, Guadalajara
+DESCRIPTION:Partido 13 - Fase de Grupos\nGrupo A\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-014@mundial2026
+SUMMARY:🏆 Bélgica vs Egipto [Grupo B]
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+LOCATION:BMO Field, Toronto
+DESCRIPTION:Partido 14 - Fase de Grupos\nGrupo B\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-015@mundial2026
+SUMMARY:🏆 Arabia Saudita vs Uruguay [Grupo C]
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Partido 15 - Fase de Grupos\nGrupo C\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-016@mundial2026
+SUMMARY:🏆 Irán vs Nueva Zelanda [Grupo D]
+DTSTART:20260616T010000Z
+DTEND:20260616T030000Z
+LOCATION:Estadio Universitario, Monterrey
+DESCRIPTION:Partido 16 - Fase de Grupos\nGrupo D\nHora Paraguay: 9:00 PM (Lunes 15)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-017@mundial2026
+SUMMARY:🏆 Francia vs Senegal [Grupo E]
+DTSTART:20260616T160000Z
+DTEND:20260616T180000Z
+LOCATION:MetLife Stadium, Nueva York/Nueva Jersey
+DESCRIPTION:Partido 17 - Fase de Grupos\nGrupo E\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-018@mundial2026
+SUMMARY:🏆 Argentina vs Irak [Grupo F]
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+LOCATION:Rose Bowl, Los Ángeles
+DESCRIPTION:Partido 18 - Fase de Grupos\nGrupo F\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-019@mundial2026
+SUMMARY:🏆 Portugal vs Angola [Grupo G]
+DTSTART:20260617T010000Z
+DTEND:20260617T030000Z
+LOCATION:Levi's Stadium, San Francisco
+DESCRIPTION:Partido 19 - Fase de Grupos\nGrupo G\nHora Paraguay: 9:00 PM (Martes 16)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-020@mundial2026
+SUMMARY:🏆 Croacia vs Uzbekistán [Grupo H]
+DTSTART:20260617T130000Z
+DTEND:20260617T150000Z
+LOCATION:Estadio BBVA, Monterrey
+DESCRIPTION:Partido 20 - Fase de Grupos\nGrupo H\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-021@mundial2026
+SUMMARY:🏆 Serbia vs Noruega [Grupo I]
+DTSTART:20260617T160000Z
+DTEND:20260617T180000Z
+LOCATION:AT&T Stadium, Dallas
+DESCRIPTION:Partido 21 - Fase de Grupos\nGrupo I\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-022@mundial2026
+SUMMARY:🏆 Polonia vs Jordania [Grupo J]
+DTSTART:20260617T190000Z
+DTEND:20260617T210000Z
+LOCATION:SoFi Stadium, Los Ángeles
+DESCRIPTION:Partido 22 - Fase de Grupos\nGrupo J\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-023@mundial2026
+SUMMARY:🏆 México vs Gabón [Grupo K]
+DTSTART:20260618T010000Z
+DTEND:20260618T030000Z
+LOCATION:Estadio Azteca, Ciudad de México
+DESCRIPTION:Partido 23 - Fase de Grupos\nGrupo K\nHora Paraguay: 9:00 PM (Miércoles 17)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-024@mundial2026
+SUMMARY:🏆 Inglaterra vs Panamá [Grupo L]
+DTSTART:20260618T130000Z
+DTEND:20260618T150000Z
+LOCATION:Lincoln Financial Field, Filadelfia
+DESCRIPTION:Partido 24 - Fase de Grupos\nGrupo L\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-025@mundial2026
+SUMMARY:🏆 Chequia vs Sudáfrica [Grupo A]
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Partido 25 - Fase de Grupos\nGrupo A\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-026@mundial2026
+SUMMARY:🏆 🇵🇾 Paraguay vs Irán [Grupo D]
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+LOCATION:Rose Bowl, Los Ángeles
+DESCRIPTION:Partido 26 - Fase de Grupos\nGrupo D\n⭐ PARAGUAY ⭐\nHora Paraguay: 9:00 PM (Jueves 18)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-027@mundial2026
+SUMMARY:🏆 Bosnia y Herzegovina vs Arabia Saudita [Grupo C]
+DTSTART:20260619T130000Z
+DTEND:20260619T150000Z
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Partido 27 - Fase de Grupos\nGrupo C\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-028@mundial2026
+SUMMARY:🏆 Corea del Sur vs Egipto [Grupo B]
+DTSTART:20260619T160000Z
+DTEND:20260619T180000Z
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Partido 28 - Fase de Grupos\nGrupo B\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-029@mundial2026
+SUMMARY:🏆 Japón vs Angola [Grupo G]
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+LOCATION:Hard Rock Stadium, Miami
+DESCRIPTION:Partido 29 - Fase de Grupos\nGrupo G\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-030@mundial2026
+SUMMARY:🏆 Qatar vs España [Grupo A]
+DTSTART:20260620T010000Z
+DTEND:20260620T030000Z
+LOCATION:Estadio Akron, Guadalajara
+DESCRIPTION:Partido 30 - Fase de Grupos\nGrupo A\nHora Paraguay: 9:00 PM (Viernes 19)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-031@mundial2026
+SUMMARY:🏆 Suiza vs Francia [Grupo E]
+DTSTART:20260620T130000Z
+DTEND:20260620T150000Z
+LOCATION:Gillette Stadium, Boston
+DESCRIPTION:Partido 31 - Fase de Grupos\nGrupo E\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-032@mundial2026
+SUMMARY:🏆 Marruecos vs Argentina [Grupo F]
+DTSTART:20260620T160000Z
+DTEND:20260620T180000Z
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Partido 32 - Fase de Grupos\nGrupo F\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-033@mundial2026
+SUMMARY:🏆 Portugal vs Escocia [Grupo G]
+DTSTART:20260620T190000Z
+DTEND:20260620T210000Z
+LOCATION:MetLife Stadium, Nueva York/Nueva Jersey
+DESCRIPTION:Partido 33 - Fase de Grupos\nGrupo G\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-034@mundial2026
+SUMMARY:🏆 Turquía vs Serbia [Grupo I]
+DTSTART:20260621T010000Z
+DTEND:20260621T030000Z
+LOCATION:SoFi Stadium, Los Ángeles
+DESCRIPTION:Partido 34 - Fase de Grupos\nGrupo I\nHora Paraguay: 9:00 PM (Sábado 20)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-035@mundial2026
+SUMMARY:🏆 España vs Arabia Saudita [Grupo A]
+DTSTART:20260621T130000Z
+DTEND:20260621T150000Z
+LOCATION:Estadio Akron, Guadalajara
+DESCRIPTION:Partido 35 - Fase de Grupos\nGrupo A\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-036@mundial2026
+SUMMARY:🏆 Uruguay vs Canadá [Grupo C]
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+LOCATION:Levi's Stadium, San Francisco
+DESCRIPTION:Partido 36 - Fase de Grupos\nGrupo C\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-037@mundial2026
+SUMMARY:🏆 Haití vs Marruecos [Grupo F]
+DTSTART:20260621T190000Z
+DTEND:20260621T210000Z
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Partido 37 - Fase de Grupos\nGrupo F\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-038@mundial2026
+SUMMARY:🏆 Alemania vs Noruega [Grupo I]
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+LOCATION:Lincoln Financial Field, Filadelfia
+DESCRIPTION:Partido 38 - Fase de Grupos\nGrupo I\nHora Paraguay: 9:00 PM (Domingo 21)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-039@mundial2026
+SUMMARY:🏆 Bélgica vs Corea del Sur [Grupo B]
+DTSTART:20260622T130000Z
+DTEND:20260622T150000Z
+LOCATION:Estadio Universitario, Monterrey
+DESCRIPTION:Partido 39 - Fase de Grupos\nGrupo B\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-040@mundial2026
+SUMMARY:🏆 Noruega vs Senegal [Grupo E]
+DTSTART:20260622T200000Z
+DTEND:20260622T220000Z
+LOCATION:AT&T Stadium, Dallas
+DESCRIPTION:Partido 40 - Fase de Grupos\nGrupo E\nHora Paraguay: 4:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-041@mundial2026
+SUMMARY:🏆 🇵🇾 Nueva Zelanda vs USA [Grupo D]
+DTSTART:20260623T010000Z
+DTEND:20260623T030000Z
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Partido 41 - Fase de Grupos\nGrupo D\nHora Paraguay: 9:00 PM (Lunes 22)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-042@mundial2026
+SUMMARY:🏆 Uzbekistán vs Australia [Grupo H]
+DTSTART:20260623T130000Z
+DTEND:20260623T150000Z
+LOCATION:BMO Field, Toronto
+DESCRIPTION:Partido 42 - Fase de Grupos\nGrupo H\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-043@mundial2026
+SUMMARY:🏆 Jordania vs Países Bajos [Grupo J]
+DTSTART:20260623T160000Z
+DTEND:20260623T180000Z
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Partido 43 - Fase de Grupos\nGrupo J\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-044@mundial2026
+SUMMARY:🏆 Ecuador vs Alemania [Grupo I]
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+LOCATION:AT&T Stadium, Dallas
+DESCRIPTION:Partido 44 - Fase de Grupos\nGrupo I\nHora Paraguay: 4:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-045@mundial2026
+SUMMARY:🏆 Túnez vs Inglaterra [Grupo L]
+DTSTART:20260624T130000Z
+DTEND:20260624T150000Z
+LOCATION:Hard Rock Stadium, Miami
+DESCRIPTION:Partido 45 - Fase de Grupos\nGrupo L\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-046@mundial2026
+SUMMARY:🏆 Congo DR vs Uzbekistán [Grupo H]
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Partido 46 - Fase de Grupos\nGrupo H\nHora Paraguay: 7:30 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-047@mundial2026
+SUMMARY:🏆 Panamá vs Inglaterra [Grupo L]
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+LOCATION:Lincoln Financial Field, Filadelfia
+DESCRIPTION:Partido 47 - Fase de Grupos\nGrupo L\nHora Paraguay: 5:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-048@mundial2026
+SUMMARY:🏆 🇵🇾 Paraguay vs USA (3ª jornada) [Grupo D]
+DTSTART:20260626T200000Z
+DTEND:20260626T220000Z
+LOCATION:Gillette Stadium, Boston
+DESCRIPTION:Partido 48 - Fase de Grupos\nGrupo D - 3ª fecha\n⭐ PARAGUAY ⭐\nHora Paraguay: 4:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-049@mundial2026
+SUMMARY:🏆 Senegal vs Suiza [Grupo E]
+DTSTART:20260625T130000Z
+DTEND:20260625T150000Z
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Partido 49 - Fase de Grupos\nGrupo E\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-050@mundial2026
+SUMMARY:🏆 Escocia vs Haití [Grupo G]
+DTSTART:20260625T160000Z
+DTEND:20260625T180000Z
+LOCATION:BMO Field, Toronto
+DESCRIPTION:Partido 50 - Fase de Grupos\nGrupo G\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-051@mundial2026
+SUMMARY:🏆 Angola vs Portugal [Grupo G]
+DTSTART:20260626T130000Z
+DTEND:20260626T150000Z
+LOCATION:Rose Bowl, Los Ángeles
+DESCRIPTION:Partido 51 - Fase de Grupos\nGrupo G\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-052@mundial2026
+SUMMARY:🏆 Irak vs Brasil [Grupo F]
+DTSTART:20260626T160000Z
+DTEND:20260626T180000Z
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Partido 52 - Fase de Grupos\nGrupo F\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-053@mundial2026
+SUMMARY:🏆 Cabo Verde vs Chequia [Grupo A]
+DTSTART:20260624T160000Z
+DTEND:20260624T180000Z
+LOCATION:Estadio Akron, Guadalajara
+DESCRIPTION:Partido 53 - Fase de Grupos\nGrupo A\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-054@mundial2026
+SUMMARY:🏆 Egipto vs Bosnia y Herzegovina [Grupo C]
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+LOCATION:Levi's Stadium, San Francisco
+DESCRIPTION:Partido 54 - Fase de Grupos\nGrupo C\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-055@mundial2026
+SUMMARY:🏆 Países Bajos vs Polonia [Grupo J]
+DTSTART:20260627T130000Z
+DTEND:20260627T150000Z
+LOCATION:AT&T Stadium, Dallas
+DESCRIPTION:Partido 55 - Fase de Grupos\nGrupo J\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-056@mundial2026
+SUMMARY:🏆 Australia vs Croacia [Grupo H]
+DTSTART:20260627T160000Z
+DTEND:20260627T180000Z
+LOCATION:MetLife Stadium, Nueva York/Nueva Jersey
+DESCRIPTION:Partido 56 - Fase de Grupos\nGrupo H\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-057@mundial2026
+SUMMARY:🏆 Suecia vs Bélgica [Grupo B]
+DTSTART:20260628T130000Z
+DTEND:20260628T150000Z
+LOCATION:Hard Rock Stadium, Miami
+DESCRIPTION:Partido 57 - Fase de Grupos\nGrupo B\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-058@mundial2026
+SUMMARY:🏆 Sudáfrica vs Qatar [Grupo A]
+DTSTART:20260628T160000Z
+DTEND:20260628T180000Z
+LOCATION:Estadio Universitario, Monterrey
+DESCRIPTION:Partido 58 - Fase de Grupos\nGrupo A\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-059@mundial2026
+SUMMARY:🏆 Francia vs Noruega [Grupo E]
+DTSTART:20260628T190000Z
+DTEND:20260628T210000Z
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Partido 59 - Fase de Grupos\nGrupo E\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-060@mundial2026
+SUMMARY:🏆 Brasil vs Argentina [Grupo F]
+DTSTART:20260629T010000Z
+DTEND:20260629T030000Z
+LOCATION:Rose Bowl, Los Ángeles
+DESCRIPTION:Partido 60 - Fase de Grupos\nGrupo F\nHora Paraguay: 9:00 PM (Sábado 28)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-061@mundial2026
+SUMMARY:🏆 Serbia vs Ecuador [Grupo I]
+DTSTART:20260629T130000Z
+DTEND:20260629T150000Z
+LOCATION:Lincoln Financial Field, Filadelfia
+DESCRIPTION:Partido 61 - Fase de Grupos\nGrupo I\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-062@mundial2026
+SUMMARY:🏆 Corea del Sur vs Suecia [Grupo B]
+DTSTART:20260629T190000Z
+DTEND:20260629T210000Z
+LOCATION:Estadio BBVA, Monterrey
+DESCRIPTION:Partido 62 - Fase de Grupos\nGrupo B\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-063@mundial2026
+SUMMARY:🏆 Japón vs Escocia [Grupo G]
+DTSTART:20260630T130000Z
+DTEND:20260630T150000Z
+LOCATION:SoFi Stadium, Los Ángeles
+DESCRIPTION:Partido 63 - Fase de Grupos\nGrupo G\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-064@mundial2026
+SUMMARY:🏆 Croacia vs Congo DR [Grupo H]
+DTSTART:20260630T160000Z
+DTEND:20260630T180000Z
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Partido 64 - Fase de Grupos\nGrupo H\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-065@mundial2026
+SUMMARY:🏆 Uruguay vs Egipto [Grupo C]
+DTSTART:20260630T190000Z
+DTEND:20260630T210000Z
+LOCATION:BMO Field, Toronto
+DESCRIPTION:Partido 65 - Fase de Grupos\nGrupo C\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-066@mundial2026
+SUMMARY:🏆 Canadá vs Arabia Saudita [Grupo C]
+DTSTART:20260701T010000Z
+DTEND:20260701T030000Z
+LOCATION:AT&T Stadium, Dallas
+DESCRIPTION:Partido 66 - Fase de Grupos\nGrupo C\nHora Paraguay: 9:00 PM (Lunes 30)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-067@mundial2026
+SUMMARY:🏆 Túnez vs Panamá [Grupo L]
+DTSTART:20260701T130000Z
+DTEND:20260701T150000Z
+LOCATION:Gillette Stadium, Boston
+DESCRIPTION:Partido 67 - Fase de Grupos\nGrupo L\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-068@mundial2026
+SUMMARY:🏆 Inglaterra vs Suecia [Grupo L]
+DTSTART:20260701T160000Z
+DTEND:20260701T180000Z
+LOCATION:MetLife Stadium, Nueva York/Nueva Jersey
+DESCRIPTION:Partido 68 - Fase de Grupos\nGrupo L\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-069@mundial2026
+SUMMARY:🏆 Polonia vs Japón [Grupo J]
+DTSTART:20260701T190000Z
+DTEND:20260701T210000Z
+LOCATION:Hard Rock Stadium, Miami
+DESCRIPTION:Partido 69 - Fase de Grupos\nGrupo J\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-070@mundial2026
+SUMMARY:🏆 Gabón vs Costa de Marfil [Grupo K]
+DTSTART:20260702T010000Z
+DTEND:20260702T030000Z
+LOCATION:Estadio Azteca, Ciudad de México
+DESCRIPTION:Partido 70 - Fase de Grupos\nGrupo K\nHora Paraguay: 9:00 PM (Martes 1)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-071@mundial2026
+SUMMARY:🏆 Jordania vs Alemania [Grupo I]
+DTSTART:20260702T130000Z
+DTEND:20260702T150000Z
+LOCATION:Lincoln Financial Field, Filadelfia
+DESCRIPTION:Partido 71 - Fase de Grupos\nGrupo I\nHora Paraguay: 9:00 AM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-072@mundial2026
+SUMMARY:🏆 Senegal vs Francia [Grupo E]
+DTSTART:20260702T160000Z
+DTEND:20260702T180000Z
+LOCATION:Levi's Stadium, San Francisco
+DESCRIPTION:Partido 72 - Fase de Grupos\nGrupo E\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-001@mundial2026
+SUMMARY:⚔️ Round of 32 - M73: 1A vs 3B/C/D/E/F [R32]
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+LOCATION:Estadio Akron, Guadalajara
+DESCRIPTION:Round of 32 - Partido 73\nGanador Grupo A vs 3ro Grupo B/C/D/E/F\nHora Paraguay: 5:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-002@mundial2026
+SUMMARY:⚔️ Round of 32 - M74: 1E vs 3A/B/C/D/F [R32]
+DTSTART:20260701T013000Z
+DTEND:20260701T033000Z
+LOCATION:Gillette Stadium, Boston
+DESCRIPTION:Round of 32 - Partido 74\nHora Paraguay: 9:30 PM (Lunes 30)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-003@mundial2026
+SUMMARY:⚔️ Round of 32 - M75: 1F vs 2C [R32]
+DTSTART:20260702T060000Z
+DTEND:20260702T080000Z
+LOCATION:Estadio BBVA, Guadalupe
+DESCRIPTION:Round of 32 - Partido 75\nHora Paraguay: 2:00 AM (miércoles)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-004@mundial2026
+SUMMARY:⚔️ Round of 32 - M76: 1B vs 3A/C/D/E/F [R32]
+DTSTART:20260702T200000Z
+DTEND:20260702T220000Z
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Round of 32 - Partido 76\nHora Paraguay: 4:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-005@mundial2026
+SUMMARY:⚔️ Round of 32 - M77: 1C vs 2A [R32]
+DTSTART:20260703T000000Z
+DTEND:20260703T020000Z
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Round of 32 - Partido 77\nHora Paraguay: 8:00 PM (miércoles 2)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-006@mundial2026
+SUMMARY:⚔️ Round of 32 - M78: 2E vs 2I [R32]
+DTSTART:20260703T180000Z
+DTEND:20260703T200000Z
+LOCATION:AT&T Stadium, Dallas
+DESCRIPTION:Round of 32 - Partido 78\nHora Paraguay: 2:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-007@mundial2026
+SUMMARY:⚔️ Round of 32 - M79: 1H vs 2G [R32]
+DTSTART:20260703T220000Z
+DTEND:20260704T000000Z
+LOCATION:Hard Rock Stadium, Miami
+DESCRIPTION:Round of 32 - Partido 79\nHora Paraguay: 6:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-008@mundial2026
+SUMMARY:⚔️ Round of 32 - M80: 1I vs 2H [R32]
+DTSTART:20260704T030000Z
+DTEND:20260704T050000Z
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Round of 32 - Partido 80\nHora Paraguay: 11:00 PM (jueves 3)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-009@mundial2026
+SUMMARY:⚔️ Round of 32 - M81: 1D vs 3G/H/I/J [R32]
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+LOCATION:Levi's Stadium, San Francisco
+DESCRIPTION:Round of 32 - Partido 81\nHora Paraguay: 8:00 PM (martes 1)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-010@mundial2026
+SUMMARY:⚔️ Round of 32 - M82: 1G vs 3A/E/H/I/J [R32]
+DTSTART:20260701T200000Z
+DTEND:20260701T220000Z
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Round of 32 - Partido 82\nHora Paraguay: 4:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-011@mundial2026
+SUMMARY:⚔️ Round of 32 - M83: 2K vs 2L [R32]
+DTSTART:20260702T230000Z
+DTEND:20260703T010000Z
+LOCATION:BMO Field, Toronto
+DESCRIPTION:Round of 32 - Partido 83\nHora Paraguay: 7:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-012@mundial2026
+SUMMARY:⚔️ Round of 32 - M84: 1H vs 2J [R32]
+DTSTART:20260702T190000Z
+DTEND:20260702T210000Z
+LOCATION:SoFi Stadium, Los Ángeles
+DESCRIPTION:Round of 32 - Partido 84\nHora Paraguay: 3:00 PM (martes 1)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-013@mundial2026
+SUMMARY:⚔️ Round of 32 - M85: 1B vs 3E/F/G/I/J [R32]
+DTSTART:20260703T030000Z
+DTEND:20260703T050000Z
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Round of 32 - Partido 85\nHora Paraguay: 11:00 PM (miércoles 2)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-014@mundial2026
+SUMMARY:⚔️ Round of 32 - M86: 1J vs 2H [R32]
+DTSTART:20260703T220000Z
+DTEND:20260704T000000Z
+LOCATION:Hard Rock Stadium, Miami
+DESCRIPTION:Round of 32 - Partido 86\nHora Paraguay: 6:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-015@mundial2026
+SUMMARY:⚔️ Round of 32 - M87: 1K vs 3A/B/C/D/F [R32]
+DTSTART:20260704T180000Z
+DTEND:20260704T200000Z
+LOCATION:Estadio Azteca, Ciudad de México
+DESCRIPTION:Round of 32 - Partido 87\nHora Paraguay: 2:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r32-016@mundial2026
+SUMMARY:⚔️ Round of 32 - M88: 2D vs 2G [R32]
+DTSTART:20260703T180000Z
+DTEND:20260703T200000Z
+LOCATION:AT&T Stadium, Dallas
+DESCRIPTION:Round of 32 - Partido 88\nHora Paraguay: 2:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r16-001@mundial2026
+SUMMARY:🔥 Octavos - M89: W73 vs W74 [Octavos]
+DTSTART:20260705T190000Z
+DTEND:20260705T210000Z
+LOCATION:MetLife Stadium, Nueva York/Nueva Jersey
+DESCRIPTION:Round of 16 - Partido 89\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r16-002@mundial2026
+SUMMARY:🔥 Octavos - M90: W75 vs W76 [Octavos]
+DTSTART:20260705T230000Z
+DTEND:20260706T010000Z
+LOCATION:Estadio Azteca, Ciudad de México
+DESCRIPTION:Round of 16 - Partido 90\nHora Paraguay: 7:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r16-003@mundial2026
+SUMMARY:🔥 Octavos - M91: W77 vs W78 [Octavos]
+DTSTART:20260706T190000Z
+DTEND:20260706T210000Z
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Round of 16 - Partido 91\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r16-004@mundial2026
+SUMMARY:🔥 Octavos - M92: W79 vs W80 [Octavos]
+DTSTART:20260706T230000Z
+DTEND:20260707T010000Z
+LOCATION:Rose Bowl, Los Ángeles
+DESCRIPTION:Round of 16 - Partido 92\nHora Paraguay: 7:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r16-005@mundial2026
+SUMMARY:🔥 Octavos - M93: W81 vs W82 [Octavos]
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Round of 16 - Partido 93\nHora Paraguay: 12:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r16-006@mundial2026
+SUMMARY:🔥 Octavos - M94: W83 vs W84 [Octavos]
+DTSTART:20260707T200000Z
+DTEND:20260707T220000Z
+LOCATION:SoFi Stadium, Los Ángeles
+DESCRIPTION:Round of 16 - Partido 94\nHora Paraguay: 4:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r16-007@mundial2026
+SUMMARY:🔥 Octavos - M95: W85 vs W86 [Octavos]
+DTSTART:20260708T190000Z
+DTEND:20260708T210000Z
+LOCATION:Levi's Stadium, San Francisco
+DESCRIPTION:Round of 16 - Partido 95\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-r16-008@mundial2026
+SUMMARY:🔥 Octavos - M96: W87 vs W88 [Octavos]
+DTSTART:20260708T230000Z
+DTEND:20260709T010000Z
+LOCATION:Gillette Stadium, Boston
+DESCRIPTION:Round of 16 - Partido 96\nHora Paraguay: 7:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-qf-001@mundial2026
+SUMMARY:💥 Cuartos de Final - M97: W89 vs W90 [Cuartos]
+DTSTART:20260711T190000Z
+DTEND:20260711T210000Z
+LOCATION:AT&T Stadium, Dallas
+DESCRIPTION:Cuartos de Final - Partido 97\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-qf-002@mundial2026
+SUMMARY:💥 Cuartos de Final - M98: W91 vs W92 [Cuartos]
+DTSTART:20260711T230000Z
+DTEND:20260712T010000Z
+LOCATION:MetLife Stadium, Nueva York/Nueva Jersey
+DESCRIPTION:Cuartos de Final - Partido 98\nHora Paraguay: 7:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-qf-003@mundial2026
+SUMMARY:💥 Cuartos de Final - M99: W93 vs W94 [Cuartos]
+DTSTART:20260712T190000Z
+DTEND:20260712T210000Z
+LOCATION:Rose Bowl, Los Ángeles
+DESCRIPTION:Cuartos de Final - Partido 99\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-qf-004@mundial2026
+SUMMARY:💥 Cuartos de Final - M100: W95 vs W96 [Cuartos]
+DTSTART:20260712T230000Z
+DTEND:20260713T010000Z
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Cuartos de Final - Partido 100\nHora Paraguay: 7:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-sf-001@mundial2026
+SUMMARY:🌟 Semifinal - M101: W97 vs W98 [Semis]
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Semifinal - Partido 101\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-sf-002@mundial2026
+SUMMARY:🌟 Semifinal - M102: W99 vs W100 [Semis]
+DTSTART:20260715T230000Z
+DTEND:20260716T010000Z
+LOCATION:SoFi Stadium, Los Ángeles
+DESCRIPTION:Semifinal - Partido 102\nHora Paraguay: 7:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-3rd@mundial2026
+SUMMARY:🥉 Tercer Puesto - M103: Perdedor SF1 vs Perdedor SF2
+DTSTART:20260718T190000Z
+DTEND:20260718T210000Z
+LOCATION:Estadio Azteca, Ciudad de México
+DESCRIPTION:Tercer y Cuarto Puesto\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-final@mundial2026
+SUMMARY:🏆 FINAL MUNDIAL 2026 - Campeón vs Subcampeón
+DTSTART:20260719T190000Z
+DTEND:20260719T210000Z
+LOCATION:MetLife Stadium, Nueva York/Nueva Jersey
+DESCRIPTION:🏆 GRAN FINAL - FIFA World Cup 2026 🏆\nMetLife Stadium - East Rutherford, Nueva Jersey\nHora Paraguay: 3:00 PM
+END:VEVENT
+
+END:VCALENDAR
